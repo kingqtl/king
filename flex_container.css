@@ -1,0 +1,7 @@
+html,body{height: 100%; text-align: center; width:100%;margin:0 auto;display: flex; flex-flow: column;height:100%; width:100%}
+#top{height: 100px; background-color: cyan;}
+#bo{display: flex; flex:1;  align-self: center;height: 100%; width:100%;}
+#left{background-color: cadetblue;flex: 1; box-sizing: border-box;}
+#right{background-color: coral; flex: 1; box-sizing: border-box; }
+#right1{background-color: darkblue; flex: 1;box-sizing: border-box;}
+#footer{height:100px;background-color: blueviolet;}
